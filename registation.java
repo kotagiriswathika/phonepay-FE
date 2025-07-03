@@ -1,3 +1,3 @@
-This is reg page
+This is registation page
 for phonepay App
 Thanks.
